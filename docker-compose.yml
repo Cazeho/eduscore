@@ -1,0 +1,7 @@
+version: '3.1'
+services:
+     app:
+      container_name: relevee
+      build: app/
+      ports:
+          - 8501:8501
