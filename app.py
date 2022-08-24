@@ -79,7 +79,7 @@ def get_name(f):
                 res = row.split()[6:8]
     return res
 
-st.subheader("Uploader votre relevée de note directement")
+st.subheader("Uploader votre relevés de notes directement")
 uploaded_data = st.file_uploader(
         "Drag and Drop or Click to Upload", type=["pdf"], accept_multiple_files=False
     )
