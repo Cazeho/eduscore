@@ -7,6 +7,10 @@
 
 ## Run with Docker
 
+### Requirements:
+
+- Docker
+- Docker-compose
 
 ```
 git clone https://github.com/Cazeho/eduscore.git
