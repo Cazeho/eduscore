@@ -25,3 +25,6 @@ docker-compose up -d --build
 Sur le navigateur
 
 ```http://<ip_de_la_machine>:8501```
+
+
+![Uploading image.png…]()
