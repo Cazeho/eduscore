@@ -1,3 +1,12 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# File name          : app.py
+# Author             : Cazeho
+# Date created       : 24/08/2022
+# Repository         : https://github.com/Cazeho/eduscore
+
+
+
 import streamlit as st 
 import pdfplumber
 import re
