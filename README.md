@@ -8,4 +8,7 @@
 ## Run with Docker
 
 
-```docker-compose up -d --build ```
+```
+git clone https://github.com/Cazeho/eduscore.git
+
+docker-compose up -d --build ```
