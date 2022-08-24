@@ -1,7 +1,7 @@
 version: '3.1'
 services:
      app:
-      container_name: relevee
+      container_name: eduscore
       build: .
       ports:
           - 8501:8501
