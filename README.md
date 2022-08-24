@@ -10,6 +10,5 @@
 
 ```
 git clone https://github.com/Cazeho/eduscore.git
-
 docker-compose up -d --build 
 ```
