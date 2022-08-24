@@ -95,7 +95,7 @@ else:
 st.subheader("Ou en Remote")
 
 with st.form(key='remote'):
-    st.write("Credential de votre compte Unice")
+    st.write("Les credentials de votre compte Unice")
     nav1,nav2 = st.columns([2,1])
     with nav1:
         u=st.text_input("username")
