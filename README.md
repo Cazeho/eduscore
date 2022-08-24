@@ -16,3 +16,6 @@
 git clone https://github.com/Cazeho/eduscore.git
 docker-compose up -d --build 
 ```
+
+
+```http://<ip_de_la_machine>:8501```
