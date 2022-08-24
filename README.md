@@ -1,5 +1,7 @@
 # eduscore (Unice)
 
+## Comptaible uniquement avec les relevés de notes de l'université de Nice Sophia-Antipolis
+
 ## Version 1.0
 
 
