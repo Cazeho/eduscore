@@ -110,4 +110,4 @@ st.subheader("Nom: "+name)
 st.subheader("Moyenne générale: "+str(moy))
 
 
-st.info("Version 1.0 , un problème ? reporter le sur https://github.com/Cazeho/eduscore/issue")
+st.info("Version 1.0 , un problème ? reporter le sur https://github.com/Cazeho/eduscore/issues")
